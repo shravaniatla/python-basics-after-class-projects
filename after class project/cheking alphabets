@@ -1,0 +1,3 @@
+name = "Shravani"
+x = name.isalpha()
+print(x)
